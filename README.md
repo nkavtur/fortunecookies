@@ -1,5 +1,4 @@
-# Usage
- 
+
 ```
 FortuneCookies.getAndCrack()
 ```
